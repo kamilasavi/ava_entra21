@@ -8,3 +8,6 @@ Na metodologia ágil, pode gaver também as raias 'Backlog' e 'Testes' na qual s
 A raia 'A iniciar' indica as atividades programadas para iniciar na sprint específica.
 A raia 'Em andamento' indica as atividades que se encontram em desenvolvimento pelo time.
 Já a raia 'Finalizado' apresenta a visão geral das atividades concluídas na sprint. 
+
+As três ferramentas que podem ser aplicáveis são: Trello, Kanbanize e Jira.
+Todas as opções possuem a opções de gerenciamento de atividades e oportunidades de interação com GitHub.
